@@ -14,7 +14,7 @@ class River
 
   def bear_stealing_fish(bear)
     fish = @fishes.pop()
-    bear.bear_stomach << fish 
+    bear.bear_stomach << fish
   end
 
 
